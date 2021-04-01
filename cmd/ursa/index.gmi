@@ -1,0 +1,17 @@
+```
+            *   * 
+                    * 
+                        * 
+                                  *
+                        *
+                               *
+```
+
+# Interplanetary FileSystem Gateway
+
+=> /fetch/hash fetch IPFS object by HASH ID
+=> /fetch/name fetch IPFS object by IPNS reference
+
+## Settings
+- maximum body size: 10Mb
+- write timeout: 10s
